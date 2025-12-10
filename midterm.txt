@@ -1,0 +1,60 @@
+Q: What are Light pen and joystick ?
+A: Input Devices
+
+Q: Which programming languages are classified as low level languages?
+A: Assembly Language
+
+Q: What translates and executes program at run time line by line?
+A: Interpreter
+
+Q: A DVD is an example of an__?
+A: Optical Disc
+
+Q: First page of Website is termed as__?
+A: Homepage
+
+Q: The amount of vertical space between lines of text in a document is called__?
+A: Line Spacing
+
+Q: What is the other name for programmed chip?
+A: LSIC
+
+Q: What is the functional key to display save-as box?
+A: F12
+
+Q: The technology that stores only essential instructions on a microprocessor chip and thus enhances its speed is referred as__?
+A: RISC
+
+Q: Which of the following commands is given to reboot the computer?
+A: Ctrl+Alt+Del
+
+Q: The first web browser is__?
+A: Mosaic
+
+Q: Name of 1st electronic computer?
+A: ENIAC
+
+Q: Help Menu is available at which button?
+A: Start
+
+Q: SMTP, FTP and DNS are applications of the ____ layer?
+A: Application
+
+Q: Refresh Rate of monitor is measured in?
+A: Hertz
+
+Q: Which command is used to select the whole document?
+A: Ctrl+A
+
+Q: Daisy wheel, Drum, chain etc are the__?
+A: Printers
+
+Q: Joshy, Perfumes are examples of __?
+A: Viuses
+
+Q: A ________ is approximately a million bytes?
+A: Megabyte
+
+Q: The scrambling of code is known as__?
+A: Encryption
+
